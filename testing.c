@@ -1,9 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    int y = 5;
-    int x;
-    printf("%d",y = (x = 10 * y));
-    printf("%d %d", y, x);
+    printf("%d %d %d %d %d %d",'A','E','I','a','e','i');
     return 0;
 }
